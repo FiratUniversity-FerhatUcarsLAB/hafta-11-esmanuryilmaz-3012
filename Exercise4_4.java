@@ -12,10 +12,13 @@ public class Exercise4_4 {
 
         // 1) Donus degerini kullanmayin -> ne oluyor?
         getNumber();
+        // CEVAP: Kod sorunsuz çalışır. Metot 42 döndürür ama 
+        // biz onu yakalamadığımız için değer hafızada kaybolur. Hata vermez.
 
         // 2) void metodu ifade icinde kullanin -> ne oluyor?
         // System.out.println(sayHello() + 7);
-
-        // Cevaplarinizi yorum olarak ekleyin.
+        // CEVAP: Derleme Hatası (Compile Error) verir.
+        // Çünkü sayHello() 'void' döndürür (yani hiçlik). 
+        // Hiçlik ile 7 sayısı toplanamaz.
     }
 }
