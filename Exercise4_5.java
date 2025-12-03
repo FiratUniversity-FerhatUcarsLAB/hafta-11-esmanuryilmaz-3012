@@ -25,3 +25,8 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+just for
+any not more 
+It's breakfast 
+!
