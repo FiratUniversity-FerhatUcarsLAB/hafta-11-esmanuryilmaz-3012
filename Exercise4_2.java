@@ -21,3 +21,9 @@ public class Exercise4_2 {
         }
     }
 }
+
+Programın Tam Çıktısı:
+ik
+rattle
+ping zoop
+boo-wa-ha-ha
