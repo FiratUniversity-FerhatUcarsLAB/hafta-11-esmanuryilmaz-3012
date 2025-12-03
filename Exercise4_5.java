@@ -26,6 +26,7 @@ public class Exercise4_5 {
     }
 }
 
+Programın Tam Çıktısı;
 just for
 any not more 
 It's breakfast 
